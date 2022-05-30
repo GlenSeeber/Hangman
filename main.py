@@ -1,7 +1,5 @@
 import random
 
-from numpy import true_divide
-
 #funcs
 #utility
 #region
